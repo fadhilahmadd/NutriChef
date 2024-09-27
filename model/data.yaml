@@ -1,0 +1,6 @@
+train: /Users/fadhilahmad/Documents/TA Refisi/model/dataset/train/images
+val: /Users/fadhilahmad/Documents/TA Refisi/model/dataset/valid/images
+test: /Users/fadhilahmad/Documents/TA Refisi/model/dataset/test/images
+
+nc: 3
+names: ['brokoli', 'wortel', 'kentang']
